@@ -1,26 +1,26 @@
 # photos
 ya know, why not post photos on a git repo?
 
-![Alt text](DSCN4054_01_02.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4054_01_02.png?raw=true)
 
-![Alt text](DSCN4089.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4089.png?raw=true)
 
-![Alt text](DSCN4089_01.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4089_01.png?raw=true)
 
-![Alt text](DSCN4110.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4110.png?raw=true)
 
-![Alt text](DSCN4173.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4173.png?raw=true)
 
-![Alt text](DSCN4033.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4033.png?raw=true)
 
-![Alt text](DSCN4163.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4163.png?raw=true)
 
-![Alt text](DSCN4234.JPG?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4234.JPG?raw=true)
 
-![Alt text](DSCN4276_03.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4276_03.png?raw=true)
 
-![Alt text](DSCN4312.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4312.png?raw=true)
 
-![Alt text](DSCN4114.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4114.png?raw=true)
 
-![Alt text](DSCN4333.png?raw=true)
+![Alt text](https://github.com/arrudagates/photos/blob/master/DSCN4333.png?raw=true)
